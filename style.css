@@ -11,7 +11,6 @@ h1 {
 
 p {
   font-size: 20px;
-  background-color: #E3E4E0;
 }
 
 .dropdown {
@@ -22,7 +21,7 @@ p {
 .dropdown-content {
   display: none;
   position: relative;
-  background-color: #C7C7BB;
+  background-color:#B5A4A3;
   min-width: 180px;
   padding: 12px 16px;
   z-index: 1;
