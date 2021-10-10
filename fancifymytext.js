@@ -1,4 +1,3 @@
-
 function bigger(){
     hello();
     var str = document.getElementById("str");

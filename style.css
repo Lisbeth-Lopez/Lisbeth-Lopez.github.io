@@ -1,8 +1,16 @@
 body {
-  font-family: serif;
+  font-family: serif;  
+  background-color: #D4C8BE;
+}
+
+.hpage {
   margin: auto;
   text-align: center;
-  background-color: #D4C8BE;
+}
+
+nav {
+  font-size: 30px;
+  text-align: center;
 }
 
 h1 {
